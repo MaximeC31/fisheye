@@ -1,6 +1,6 @@
 # FishEye
 
-Site web de découverte de photographes indépendants, entièrement codé from scratch en HTML/CSS/JavaScript.
+Plateforme de découverte de photographes, avec galeries photo et vidéo, lightbox, tri des médias et gestion des likes.
 
 ## Description
 
